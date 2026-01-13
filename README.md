@@ -47,4 +47,5 @@ A **React Native & TypeScript application** integrating **Google Cloud services*
 ### [⚽ Gravity Sphere](https://github.com/aandreu7/Gravity-Sphere)
 An open-source PC videogame inspired by the classic 90's game **Kula World**, written entirely in **C++**. **Gravity Sphere** features enhanced graphics, improved gameplay, and includes a **built-in level editor** for creating custom levels, offering a modern take on a nostalgic platformer.
 
-
+### [🎵 Spotify Popularity Classifier (2010–2019)](https://github.com/Erdrick2210/APC_Kaggle_Top_Spotify_songs-_from_2010-2019)
+A **machine learning** project that **predicts the popularity** category of **Spotify songs** using audio features and metadata. Includes data preprocessing, feature scaling, class balancing with SMOTE, and evaluation of multiple models (Logistic Regression, Random Forest, KNN, Neural Networks). The project provides visualizations, ROC curves, and performance metrics for interpretable results.
