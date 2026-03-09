@@ -38,6 +38,9 @@ My main interests include:
 
 ## 📌 Featured Projects
 
+### [🖥️ 3D Gaussian Splatting for Multispectral Data - Bachelor’s Thesis](https://github.com/Erdrick2210/hyper-gaussian-grouping-tfg)
+Extension of the 3DGS model to **generate novel views** from an input set of images, **reconstructing 3D scenes** across **multiple channels**. Each **Gaussian** learns a latent **spectral embedding** processed by **MLP/Conv** models to improve **reconstruction quality** and extract **material information**. (Repository in Catalan)
+
 ### [🤖 MyHealthKit](https://github.com/aandreu7/MyHealthKit)
 A modular robotic system designed to autonomously store, manage, and dispense medicines. Built around a **Raspberry Pi 4**, it integrates sensors like **RPLidar** for laser-based environment mapping and uses **ROS Noetic** for SLAM and navigation. The structure combines **laser-cut wood, methacrylate, and custom 3D-printed parts** for a compact and practical storage solution.
 
